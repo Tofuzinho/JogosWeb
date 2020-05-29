@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<meta charset="utf-8"/>
 <html>
     <head>
         <title>Tarefa</title>
     </head>
-    <body>
-         <img src= "screenshot_63.png" alt = "Imagem Tarefa"> 
-
-         <p>Marcelo Gimenez<p>
+    <body>       
+        <svg width="400" height="300">         
+            <rect width="400" height="200" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)"/>
+            <circle cx="200" cy="100" r="40" fill="red" />
+        </svg>
     </body>
 </html>
